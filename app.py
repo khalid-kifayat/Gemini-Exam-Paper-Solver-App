@@ -69,7 +69,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("---")
-st.markdown('<p class="footer">Python-Langchain Application : Created by Khalid Kifayat <br> (www.beingkhalid.com / www.builtautomations.com)</p>', unsafe_allow_html=True)
+st.markdown('<p class="footer">Generative AI : Python-Langchain Application <br>  Created by Khalid Kifayat <br> (www.beingkhalid.com / www.builtautomations.com)</p>', unsafe_allow_html=True)
 
 
 hide_streamlit_style = """
